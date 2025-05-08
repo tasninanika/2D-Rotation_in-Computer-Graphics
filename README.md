@@ -39,8 +39,8 @@ Store the resulting point in a new list.
 ## 🖼 Output
 
 The output shows:
-- The original square (green)
-- The rotated square (magenta)
+- The original square 
+- The rotated square 
 - The rotation angle clearly labeled in the legend
 
 ---
